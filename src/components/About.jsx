@@ -32,8 +32,13 @@ const About=()=> {
                         enabling me to optimize performance and solve complex problems effectively. 
                         I have completed various projects, showcasing my ability to deliver practical and secure web development solutions.
                         </p>
+                        
                     </div>
+                    <a href='https://drive.google.com/file/d/1wDL67sitW34zY8mhjyHHIiOTEGl3IyMm/view'><button  type="button" class="text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900">Download Resume</button></a>
             </motion.div>
+            
+
+            
         </div>
     </div>
   )
